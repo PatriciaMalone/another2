@@ -1,0 +1,24 @@
+#Equipment sharing#00031-100-Equip
+03000-100-Code
+03002-100-Name
+03001-100-Number
+00032-000-Link code
+00018-000-Descrip
+00995-000-Category
+00996-000-Type
+00006-000-Owner
+00001-100-Site
+00002-100-Room
+00040-100-Part
+00973-100-Notify
+00356-100-Cost for use
+03004-000-Can move ?
+03003-000-Acquired
+03005-000-Last service
+03006-000-Due service
+03007-000-Current value
+06647-100-Sharing
+06647-010-Sharing
+00768-100-Con
+00768-010-Constraint
+

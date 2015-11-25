@@ -1,0 +1,30 @@
+#Constraints#00417-100-Constraint
+00417-110-Constraint
+00413-100-Part Id
+00415-100-Partition
+00441-100-Single
+00442-100-Day
+00443-100-Time
+00419-100-Max time
+00420-100-Min time
+00421-100-Max consec
+00422-100-Min consec
+00423-100-Max events
+00424-100-Min events
+00425-100-Max parts
+00426-100-Min parts
+00427-100-Limit simul
+00439-100-Site status
+00001-100-Site
+00440-100-Zone status
+00408-100-Zone
+00829-100-Penalty
+00006-100-Owner
+01023-100-Apply by
+01024-100-Same site
+01025-100-Same zone
+01026-100-Same room
+01027-100-Same lect
+01029-100-Max sites
+01030-100-Max zones
+

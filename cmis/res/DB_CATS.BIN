@@ -1,0 +1,256 @@
+0,SET_ID,Data set identifier,Set,331
+1,LECT_CAT,Lecturer category,Category,61
+2,LECT_TYPE,Lecturer type,Type,62
+3,LECT_STATUS,Lecturer status,Status,63
+4,LECT_COST,Lecturer cost type,Cost type,66
+5,ROOM_CAT,Room category,Category,14
+6,ROOM_TYPE,Room type,Type,15
+7,ROOM_CLASS,Room classification,Class,22
+8,ROOM_ZONE,Room travel zone,Zone,408
+9,SITE_TRAVEL,Type of travel between sites,Travel,55
+10,COURSE_CAT,Course category,Category,68
+11,COURSE_TYPE,Course type,Type,69
+12,CLASS_CAT,Class group category,Category,71
+13,CLASS_TYPE,Class group type,Type,72
+14,MOD_CAT,Module category,Category,75
+15,MOD_CLASS,Module classification,Class,402
+16,MOD_TYPE,Type of module occurrence,Module type,37
+17,DEPT_CAT,Department category,Category,77
+18,DEPT_TYPE,Department type,Type,78
+19,TT_SLOT,Event type,Type,351
+20,STU_CAT1,Region,Region,137
+21,STU_CAT2,Area,Area,138
+22,STU_CAT3,Country of origin,Nationality,139
+23,STU_CAT4,Religion,Religion,140
+24,STU_CAT5,House,House,141
+25,STU_CAT6,Destination,Destination,142
+26,STU_CAT7,Student travel methods,Travel,143
+27,STU_CAT8,Student meals,Meals,144
+28,STU_CAT9,Ethnic group,Ethnic,145
+29,STU_CAT10,Source,Source,146
+30,STU_CAT11,Source details,Details,147
+31,STU_CAT12,Language,Language,148
+32,STU_NEED,Special need,Type,186
+33,STU_GRP_1,Teaching language,Language,395
+34,STU_GRP_2,Currently unused,Unused,396
+35,STUDY_LVL,Study level,Level,102
+36,SCH_TYPE,School type,Type,231
+37,STU_CAT13,Medical practice,Practice,602
+38,STU_CAT14,Relationship,Relation,603
+39,STU_CAT15,Currently unused,Unused,604
+40,PAY_TYPE,Payment type,Type,663
+41,PAY_CAT,Payment category,Categoce,660
+42,CARD_TYPE,Credit card type,Type,664
+43,APP_STATUS,Application status,Status,637
+44,APP_NATION,Applicant nationality,Nationality,639
+45,APP_COUNTRY,Applicant country,Country,638
+46,INST_CAT,Institution category,Category,706
+47,INST_TYPE,Institution type,Type,707
+48,TT_CHAIN,Block category,Category,744
+49,TT_LINK,Link category,Category,745
+50,RES_TYPE,Result type,Result,916
+51,RULE_TYPE,Rule type,Type,917
+52,STU_QTYPE1,Student category,Category,932
+53,STU_QTYPE2,Student type,Type,933
+54,STU_QTYPE3,Student status,Status,934
+55,MOD_PART,Module part,Part,965
+56,CON_CAT,Contact category,Category,971
+57,CON_TYPE,Contact type,Type,972
+58,EQUIP_CAT,Equipment category,Category,995
+59,EQUIP_TYPE,Equipment type,Type,996
+60,ORG_CAT,Organisation category,Category,3072
+61,ORG_TYPE,Organisation type,Type,3073
+62,TITLE,Official Title,Title,7100
+63,COUNTY,County,County,7087
+64,APP_FEE_PAY,Applicant payable by,Paying.7089
+65,APP_FEE_CAT1,Applicant fee cat 1,Cat 1,7090
+66,APP_FEE_CAT2,Applicant fee cat 2,Cat 2,7091
+67,APP_RES_CAT1,Applicant result cat 1,Cat 1,7092
+68,APP_RES_CAT2,Applicant result cat 2,Cat 2,7093
+69,BOARD_TYPE,Examination board type,Type,7094
+70,EXAM_CAT,Assessment category,Category,7095
+71,EXAM_TYPE,Assessment type,Type,7096
+72,APP_CON_TYPE,Applicant contact type,Type,7097
+73,APP_CON_CLS_1,Applicant contact classif 1,Classif 1,7098
+74,APP_CON_CLS_2,Applicant contact classif 2,Classif 2,7099
+75,MOD_LEVEL,Module level for student,Level,7109
+76,MEQUIP_CAT,Moving equipment category,Cat,3137
+77,MEQUIP_TYPE,Moving equipment type,Type,3138
+78,CLASS_STATUS,Class group status,Status,3250
+79,PART_CAT,Course part category,Category,7172
+80,PART_TYPE,Course part type,Type,7173
+81,BOOK_STAT,Booking status,Status,7228
+100,INQ_COUNTRY,Country of Residence of Inquirer,Country,747
+101,INQ_NATION,Nationality of Inquirer,Nation,748
+102,QUALIFY,Highest Qualification,Qualification,749
+103,SRC_TYP,Inquiry Source Type,Type,750
+104,QRY_TYP,Inquiry Type,Type,751
+105,INFITM_TYP,Information Item Type,Type,752
+106,INQSTATTUS,Inquiry Status,Status,753
+107,INFITM_STAT,Information Item Status,Status,754
+108,SA_TYPE,Subject Area Type,Type,755
+109,SA_STATUS,Subject Area Status,Status,756
+110,SA_CAT,Subject Area Category,Category,757
+111,TCH_ABS,Lect absence,953
+112,DEBT_CAT,Debtor category,Category,7019
+113,DEBT_TYPE,Debtor type,Type,7020
+114,CRED_CAT,Creditor category,Category,7045
+115,CRED_TYPE,Creditor type,Type,7046
+116,NOM_ANL_CAT,Nominal analysis category,Category,7063
+117,NOMINAL_CAT,Nominal category,Category,7069
+118,NOMINAL_TYPE,Nominal type,Type,7128
+119,STU_AWARD,Award,Award,977
+123,LCON_TYPE,Lect contact type,Type,6136
+124,LECT_NAT,Lecturer nature,Nature,6158
+125,LECT_QCAT,Lecturer qualification category,Category,6145
+126,LECT_QTYPE,Lecturer qualification type,Type,6146
+127,LECT_SCAT,Lecturer school category,Category,6153
+128,LECT_STYPE,Lecturer school type,Type,6154
+129,LECT_RATE,Lecturer rate,Rate,6191
+130,QUAL_TYPE,Lecturer qualification,Qualification,6141
+131,BS_CAT,Band set category,Category,7039
+132,FAM_CAT,Family category,Category,10031
+133,FAM_TYPE,Family type,Type,10032
+134,APP_CRS_CLS_1,Applicant course classif 1,Classif 1,3103
+135,APP_CRS_CLS_2,Applicant course classif 2,Classif 2,3104
+136,APP_CAT1,Applicant language,Language,3105
+137,APP_CAT2,Applicant classif 1,Classif 1,3106
+138,APP_CAT3,Applicant classif 2,Classif 2,3107
+139,APP_SOURCE,Applicant source,Source,3108
+140,APP_FEE_PAY,Applicant payable by,Paying,3109
+141,APP_FEE_CAT1,Applicant fee cat 1,Cat 1,3110
+142,APP_FEE_CAT2,Applicant fee cat 2,Cat 2,3111
+143,APP_RES_CAT1,Applicant result cat 1,Cat 1,3112
+144,APP_RES_CAT2,Applicant result cat 2,Cat 2,3113
+145,STU_HEALTH_BRD,Health board,Health brd,6374
+146,MOD_UNIT_CAT,Component category,Category,6377
+147,MOD_UNIT_TYPE,Component type,Type,6378
+148,ACAD_HSE_CAT,Academic house category,Category,6379
+149,ACAD_HSE_TYPE,Academic house type,Type,6380
+150,BRD_HSE_CAT,Boarding house category,Category,6381
+151,BRD_HSE_TYPE,Boarding house type,Type,6382
+152,APP_EXCL_TYPE,Exclusion type,Type,6433
+153,SCH_EDUC_AUTH,Education authority,LEA,6434
+154,APP_INTER_TYPE,Interruption type,Type,6463
+155,SCH_CATEGORY,School category,Category,6484
+156,SCH_PROV_TYPE,Special school provision type,Type,6485
+157,TGRP_ACT_TYPE,Teaching group activity,Activity,6486
+158,LECT_NT_TYPE,Lecturer non-teaching type,Type,6487
+159,LECT_SS_NQ_TYPE,Lecturer special school type,Type,6492
+160,LECT_TCH_TYPE,Lecturer teaching type,Type,6531
+161,ENQUIRY_TYPE,Enquiry type,Type,7501
+162,ENQUIRY_SOURCE,Enquiry source,Source,7502
+163,ENQUIRY_NATURE,Enquiry nature,Nature,7503
+164,QUAL_TYPE,Qualification type,Type,7504
+165,QUAL_CAT,Qualification category,Category,7505
+166,SUPPORT_TYPE,Support type,Type,7506
+167,SUPPORT_CAT,Support category,Category,7507
+168,QUAL_SUBJECT,Qualification subject,Subject,7508
+169,CRS_MODE_ATTEND,Course attendance mode,Mode,7651
+170,CRS_STATUS,Course status,Status,7652
+171,EMP_TYPE,Employer type,Type,8508
+172,EMP_CAT,Employer category,Category,8509
+173,ACTIV_TYPE,Activity type,Type,8516
+174,ACTIV_CAT,Activity category,Category,8517
+175,PAYDEPT_CAT,Payroll dept category,Category,10503
+176,PAYDEPT_TYPE,Payroll dept type,Type,10504
+177,PRSICLASS_CAT,PRSI class category,Category,10506
+178,PRSICLASS_TYPE,PRSI class type,Type,10505
+179,EMPLOYEE_TYPE,Employee type,Type,10507
+180,EMPLOYEE_CAT,Employee category,Category,10508
+181,QUAL_STATUS,Qualification status,Status,8520
+182,QU_UNIT_STATUS,Qualif. unit status,Status,8521
+183,FEE_PAY_CLASS,Fee payer classification,Class,1032
+184,FEE_AREA,Fee area,Area,1033
+185,FEE_GROUP,Fee group,Group,1034
+186,EXAM_STATUS,Examination status,Status,8522
+187,DBT_CARD,Debit card,Card,2210
+188,DIGT_CARD,Digit card,Card,2211
+189,BRD_COM,Board communication type,Comm,1750
+190,QUAL_LVL,Credit level,Level,1751
+191,UCAS_RES,UCAS Outcome,Outcome,8613
+192,CURRENCY,Currency,Currency,8614
+193,CAT_IT_CAT,Catalogue item category,Category,7269
+194,FC_CAT,Funding code category,Category,7290
+195,CC_CAT,Cost centre category,Category,7297
+196,CC_TYPE,Cost centre type,Type,7298
+197,CAT_IT_UN,Catalogue item unit,Unit,7311
+198,CAT_CRED_REASON,Credit Reason,Reason,8615
+199,ORD_STATUS,Accounts Order status,Status,8612
+200,INV_CANCL_REAS,Invoice cancellation reason,Reason,8616
+201,CATER_CAT,Catering category,Category,7704
+202,CATER_TYPE,Catering type,Type,7705
+203,EXCL_REAS,Exclusion reason,Reas,7706
+204,RULE_EX_REAS,Rule exception reason,Reas,7737
+205,EXAMP_REAS,Exemption reason,Reas,7786
+206,NSG_CAT,Message category,Cat,7815
+207,MSG_TYPE,Message type,Type,7816
+208,REPORT_TYPE,Report type,Type,9403
+209,CORRES_TYPE,Correspondence Type,Type,9404
+210,CORRES_STATUS,Correspondence Status,Status,9405
+211,FEE_REASON,Fee Reason,Reason,1037
+212,CTRL_AC_STATUS,Control Account Status,Status,9406
+213,CRITERIA_CAT,Criteria category,Category,9407
+214,SEN_TEST,SEN Test,Test,9408
+215,SEN_TEST_TYPE,SEN Test type,Type,9409
+216,SEXCL_REAS,Student exclusion reason,Reason,8370
+217,CRIT_COMP,Criteria component,Component,9410
+218,MOD_WORK_BRKDOW,Module Coursework Breakdown,Breakdown,9512
+219,MOD_STATUS,Module Status,Status,9513
+220,PLASC_LANGUAGE,PLASC Language,Language,8400
+221,CURR_REQ_CAT,Curricular req category,Cat,11019
+222,CURR_REQ_GRP,Curricular req grouping,Grp,11021
+223,NOT_BRD_CAT,Notice board category,Cat,11171
+224,NOT_BRD_TYP,Notice board type,Type,11172
+225,DISCUSS_CAT,Discussion forum category,Cat,11184
+226,DISCUSS_TYP,Discussion forum type,Type,11185
+227,QEVID_TYPE,Question evidence type,Type,12320
+228,AP_OUTCOME,Action point outcome,Type,12352
+229,AP_RES_TYPE,Action point resource type,Type,12357
+230,SEXCL_REINST,Student exclusion reinstatement,Reinstatement,8685
+231,SEXCL_APP_OC,Student exclusion appeal outcome,Outcome,6444
+232,CLIENT_CAT,Client category,Category,13054
+233,DB_CAT,Database category,Category,13016
+234,MACH_CAT,Machine category,Category,13008
+235,DR_CAT_ITEM_CAT,Debtors catalogue item category,Category,9737
+236,HEALTH_COND,Health condition,Cond,8694
+237,HEALTH_EVENT,Health event,Event,8695
+238,TRAVELLER,Traveller type,Traveller,8704
+239,STATEBENEVID,State benefit evidence,Evidence,8707
+240,SENREV_CAT,SEN Review Category,Category,13593
+241,SENREV_TYPE,SEN Review Type,Type,13594
+242,SENREV_ROLE,SEN Review Role,Role,13617
+243,LECT_SVC_STATUS,Service Term Status,Status,9080
+244,SCH_SLASC_ST,SLASC Specialist School Type,SLASCspec,459
+245,SCH_SLASC_SE,SLASC Extended Service,SLASCserv,460
+246,EPORTAL,ePortal category,Category,13103
+247,DATASERVER,Dataserver category,Category,13103
+248,EPORTALWEB,ePortal web category,Category,13103
+249,WEBSERVICE,Web service category,Category,13103
+250,REFUND_TYPE,Refund Type,Type,21082
+251,QTS_ROUTE,Route to Qualified Teacher Status,Status,7564
+252,DEPOSIT_TYPE,Deposit Type,Type,21307
+253,PERIOD_TYPE,Period Type,Type,21091
+254,WEL_SCH_CAT_SEC,Welsh School Category,Category,6484
+255,WEL_SCHOOL_PHAS,Welsh School Phase,Category,6484
+256,CUR_TEA_MET,Curriculum and teaching methods,Curr. & Tch.,8741
+257,GRP_AND_SUPP,Grouping and support,Grp. & Supp.,8742
+258,SPEC_RES,Specialised resources,Spec. Res.,8743
+259,AD_AND_ASS,Advice and assessment,Adv. & Ass.,8744
+260,REASFORCHANGE,Reason for change,Reason,8749
+261,ATT_CHANGED,Attendance code changed,Reason,9880
+262,WEL_SCH_CAT_PRI,Welsh School Category,Category,6484
+263,LECT_ETHNIC,Lecturer ethnicity,Ethnicity,9090
+264,LECT_DISABILITY,Lecturer disability,Disability,9088
+265,COUNTRY,Qualification country of origin,Country,7635
+266,SWF_QualResult,Qualification degree class,Class,6144
+267,LECT_ABS_CODE,Absence Payroll code,Code,7649
+268,SWF_STFCONTRTYP,Staff contract type,Contract type,7689
+269,SWF_STFDEST,Staff destination,Destination,7696
+270,SWF_STFORIG,Staff origin,Origin,7697
+271,EXCH_CC,Exchequer cost centre,Excheq C. centre,7970
+272,EXCH_DEPT,Exchequer department,Excheq Dept,7971
+273,EXCH_GL,Exchequer GL code,Excheq Ledger,7972
+274,SWF_SUBJECT,SWF Subject,Subject,7986
+275,STU_DIVERSITY,Student Diversity,Type,7671
+

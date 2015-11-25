@@ -1,0 +1,24 @@
+#%t004sc[Module] sharing#004100Mod
+004110Module
+006100Dept
+038000Grp code
+000000Lect
+075000Category
+402000Classif
+076000Link code
+397010Size
+398000Min
+399000Max
+400000Pref max
+758100Sharing
+758010Sharing
+759100D/View
+760100D/Code
+761100D/Details
+762100D/Delete
+763100E/View
+764100E/Move
+765100E/Create
+766100E/Delete
+767100E/Details
+

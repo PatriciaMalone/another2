@@ -1,0 +1,22 @@
+#%t000sc[Lecturer] sharing#000100Lect
+000110Lecturer
+061000Category
+062000Type
+063000Status
+064000Part time
+065000Cost
+066010Cost type
+067010Link code
+006000Dept
+758100Sharing
+758010Sharing
+759100D/View
+760100D/Code
+761100D/Details
+762100D/Delete
+763100E/View
+764100E/Move
+765100E/Create
+766100E/Delete
+767100E/Details
+

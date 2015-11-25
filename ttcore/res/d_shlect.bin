@@ -1,0 +1,22 @@
+#%t000sc[Lecturer] sharing#00000-100-Lect
+00000-110-Lecturer
+00061-000-Category
+00062-000-Type
+00063-000-Status
+00064-000-Part time
+00065-000-Cost
+00066-010-Cost type
+00067-010-Link code
+00006-000-Dept
+00758-100-Sharing
+00758-010-Sharing
+00759-100-D/View
+00760-100-D/Code
+00761-100-D/Details
+00762-100-D/Delete
+00763-100-E/View
+00764-100-E/Move
+00765-100-E/Create
+00766-100-E/Delete
+00767-100-E/Details
+

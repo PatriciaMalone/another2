@@ -1,0 +1,25 @@
+#%t002sc[Room] sharing#001100Site
+001010Site
+002110Room
+002100Room
+040010Parts
+013010Capacity
+408000Zone
+014000Category
+015000Type
+022000Class.
+405000Pref Min
+406000Pref max
+758000Owner
+758100Sharing
+758010Sharing
+759100D/View
+760100D/Code
+761100D/Details
+762100D/Delete
+763100E/View
+764100E/Move
+765100E/Create
+766100E/Delete
+767100E/Details
+

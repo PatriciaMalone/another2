@@ -1,0 +1,61 @@
+SET_ID,Data set identifier,Set,331
+LECT_CAT,Lecturer category,Category,61
+LECT_TYPE,Lecturer type,Type,62
+LECT_STATUS,Lecturer status,Status,63
+LECT_COST,Lecturer cost type,Cost type,66
+ROOM_CAT,Room category,Category,14
+ROOM_TYPE,Room type,Type,15
+ROOM_CLASS,Room classification,Class,22
+ROOM_ZONE,Room travel zone,Zone,408
+SITE_TRAVEL,Type of travel between sites,Travel,55
+COURSE_CAT,Course category,Category,68
+COURSE_TYPE,Course type,Type,69
+CLASS_CAT,Class group category,Category,71
+CLASS_TYPE,Class group type,Type,72
+MOD_CAT,Module category,Category,75
+MOD_CLASS,Module classification,Class,402
+MOD_TYPE,Type of module occurrence,Type,37
+DEPT_CAT,Department category,Category,77
+DEPT_TYPE,Department type,Type,78
+TT_SLOT,Event type,Type,351
+STU_CAT1,Region,Region,137
+STU_CAT2,Area,Area,138
+STU_CAT3,Country of origin,Nationality,139
+STU_CAT4,Religion,Religion,140
+STU_CAT5,House,House,141
+STU_CAT6,Destination,Destination,142
+STU_CAT7,Student travel methods,Travel,143
+STU_CAT8,Student meals,Meals,144
+STU_CAT9,Ethnic group,Ethnic,145
+STU_CAT10,Source,Source,146
+STU_CAT11,Source details,Details,147
+STU_CAT12,Language,Language,148
+STU_NEED,Special need,Type,186
+STU_GRP_1,Teaching language,Language,395
+STU_GRP_2,Currently unused,Unused,396
+STUDY_LVL,Study level,Level,102
+SCH_TYPE,School type,Type,231
+STU_CAT13,Medical practice,Practice,602
+STU_CAT14,Relationship,Relation,603
+STU_CAT15,Currently unused,Unused,604
+PAY_TYPE,Payment type,Type,663
+PAY_CAT,Payment category,Categoce,660
+CARD_TYPE,Credit card type,Type,664
+APP_STATUS,Application status,Status,637
+APP_NATION,Applicant nationality,Nationality,639
+APP_COUNTRY,Applicant country,Country,638
+INST_CAT,Institution category,Category,706
+INST_TYPE,Institution type,Type,707
+TT_CHAIN,Block category,Category,744
+TT_LINK,Link category,Category,745
+RES_TYPE,Result type,Result,916
+RULE_TYPE,Rule type,Type,917
+STU_QTYPE1,Student category,Category,932
+STU_QTYPE2,Student type,Type,933
+STU_QTYPE3,Student status,Status,934
+MOD_PART,Module part,Part,965
+CON_CAT,Contact category,Category,971
+CON_TYPE,Contact type,Type,972
+EQUIP_CAT,Equipment category,Type,995
+EQUIP_TYPE,Equipment type,Type,996
+
