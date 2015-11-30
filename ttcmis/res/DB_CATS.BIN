@@ -3,7 +3,7 @@ LECT_CAT,Lecturer category,Category,61
 LECT_TYPE,Lecturer type,Type,62
 LECT_STATUS,Lecturer status,Status,63
 LECT_COST,Lecturer cost type,Cost type,66
-ROOM_CAT,Room category,Category,14
+ROOM_CAT,Room categoryabc,Category,14
 ROOM_TYPE,Room type,Type,15
 ROOM_CLASS,Room classification,Class,22
 ROOM_ZONE,Room travel zone,Zone,408
