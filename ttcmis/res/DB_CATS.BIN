@@ -1,7 +1,7 @@
 SET_ID,Data set identifier,Set,331
 LECT_CAT,Lecturer category,Category,61
 LECT_TYPE,Lecturer type,Type,62
-LECT_STATUS,Lecturer status,Status,63
+LECT_STATUS,Lecturer statusABC,Status,63
 LECT_COST,Lecturer cost type,Cost type,66
 ROOM_CAT,Room categoryabc,Category,14
 ROOM_TYPE,Room type,Type,15
