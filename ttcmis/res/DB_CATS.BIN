@@ -27,7 +27,7 @@ STU_CAT6,Destination,Destination,142
 STU_CAT7,Student travel methods,Travel,143
 STU_CAT8,Student meals,Meals,144
 STU_CAT9,Ethnic group,Ethnic,145
-STU_CAT10,Source,Source,146
+STU_C**10,Source,Source,146
 STU_CAT11,Source details,Details,147
 STU_CAT12,Language,Language,148
 STU_NEED,Special need,Type,186
