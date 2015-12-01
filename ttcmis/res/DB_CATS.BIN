@@ -10,7 +10,7 @@ ROOM_ZONE,Room travel zone,Zone,408
 SITE_TRAVEL,Type of travel between sites,Travel,55
 COURSE_CAT,Course category,Category,68
 COURSE_TYPE,Course type,Type,69
-CLASS_CAT,Class group category,Category,71
+CLASS_C**,Class group category,Category,71
 CLASS_TYPE,Class group type,Type,72
 MOD_CAT,Module category,Category,75
 MOD_CLASS,Module classification,Class,402
