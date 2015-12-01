@@ -17,7 +17,7 @@ MOD_CLASS,Module classification,Class,402
 MOD_TYPE,Type of module occurrence,Type,37
 DEPT_CAT,Department category,Category,77
 DEPT_TYPE,Department type,Type,78
-TT_SLOT,Event type,Type,351
+TT_S&&T,Event type,Type,351
 STU_CAT1,Region,Region,137
 STU_C**2,Area,Area,138
 STU_CAT3,Country of origin,Nationality,139
